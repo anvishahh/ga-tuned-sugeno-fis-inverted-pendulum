@@ -1,0 +1,19 @@
+# MATLAB autosave files
+*.asv
+*.m~ 
+
+# MATLAB compiled
+*.mex*
+*.p
+
+# Simulink / cache
+slprj/
+*.slxc
+*.suo
+
+# MAT files (optional - keep if you want to share results)
+# *.mat
+
+# OS junk
+.DS_Store
+Thumbs.db
