@@ -1,7 +1,7 @@
 ## Results
 
 ### Tuned Membership Functions and Output Surface
-![MFs](results/TunedMFs.png)
+![MFs](results/TunedMFs.png) 
 
 ### System Response for Multiple Initial Angles
 ![Responses](results/TunedFIS.png)
